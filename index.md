@@ -1,10 +1,9 @@
-# Heading 1 
-## Heading 2
-### Heading 3 
-
-*Italic text*
+# Lecture 4  
+## Markdown Tutorial 
 
 **Bold text**
+
+*Italic text*
 
 [Onat's webpage](https://acsweb.ucsd.edu/~ogungor/)
 
@@ -26,5 +25,3 @@ This is an `inline code`
 # This is a code block
 print('Hello')
 ```
-
-Here we are now!
